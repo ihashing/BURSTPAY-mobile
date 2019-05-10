@@ -1,3 +1,3 @@
 /*
-    Copyright 2018 PoC-Consortium
+    Copyright 2019 iHashing
 */
