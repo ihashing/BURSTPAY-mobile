@@ -1,5 +1,5 @@
 /*
-    Copyright 2017 icewave.org
+    Copyright 2019 iHashing
 */
 /*
 // Reference mocha-typescript's global definitions:

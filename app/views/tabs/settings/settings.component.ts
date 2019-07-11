@@ -1,5 +1,5 @@
 /*
-* Copyright 2018 PoC-Consortium
+* Copyright 2019 iHashing
 */
 
 import { Component, OnInit, ViewContainerRef } from "@angular/core";
