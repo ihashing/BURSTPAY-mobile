@@ -38,13 +38,13 @@ export const constants = {
         { code: "ZAR", symbol: "Rs" }
     ],
     database: "loki.db",
-    defaultCurrency: "USD",
+    defaultCurrency: "HKD",
     defaultFee: 0.1,
-    defaultLanguage: "en",
-    defaultNode: "https://wallet.burst.cryptoguru.org:8125/burst",
+    defaultLanguage: "zh-hk",
+    defaultNode: "http://wallet.burstpay.io:8125",
     defaultTheme: "light",
-    documentationUrl: "https://poc-consortium.github.io/burstcoin-mobile/",
-    donate: "BURST-RTEY-HUSA-BJG4-EZW9E",
+    documentationUrl: "https://github.com/ihashing/BURSTPAY-mobile",
+    donate: "BURST-JU4F-GUTK-CUGZ-DQ979",
     languages: [
         { name: "shqip", code:"al" },
         { name: "čeština", code: "cs" },
@@ -67,13 +67,14 @@ export const constants = {
         { name: "Svenska", code: "sv" },
         { name: "தமிழ", code: "ta" },
         { name: "汉语", code: "zh-cn" },
-        { name: "漢語", code: "zh-tw" }
+        { name: "漢語", code: "zh-tw" },
+        { name: "廣東話", code: "zh-hk" }
     ],
     marketUrl: "https://api.coinmarketcap.com/v1/ticker/burst",
     minimumFee: 0.00735,
-    supportUrl: "https://github.com/poc-consortium/burstcoin-mobile/issues",
+    supportUrl: "https://github.com/ihashing/BURSTPAY-mobile",
     transactionCount: "15",
     transactionUrl: "https://explore.burst.cryptoguru.org/transaction/",
-    twitter: "https://twitter.com/PoC_Consortium",
+    twitter: "https://twitter.com/burstpay",
     version: "0.2.4"
 }
