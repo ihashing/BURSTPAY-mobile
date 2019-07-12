@@ -74,7 +74,7 @@ export const constants = {
     minimumFee: 0.00735,
     supportUrl: "https://github.com/ihashing/BURSTPAY-mobile",
     transactionCount: "15",
-    transactionUrl: "https://explore.burst.cryptoguru.org/transaction/",
+    transactionUrl: "https://explorer.burstcoin.network/",
     twitter: "https://twitter.com/burstpay",
     version: "0.2.4"
 }
