@@ -41,7 +41,7 @@ export const constants = {
     defaultCurrency: "HKD",
     defaultFee: 0.1,
     defaultLanguage: "zh-hk",
-    defaultNode: "https://wallet.burstpay.io:8125",
+    defaultNode: "https://wallet.burstpay.io:8125/burst",
     defaultTheme: "light",
     documentationUrl: "https://github.com/ihashing/BURSTPAY-mobile",
     donate: "BURST-JU4F-GUTK-CUGZ-DQ979",
