@@ -17,20 +17,20 @@
     },
     "IMPORT" : {
         "ACTION_BAR_TITLE": "導入現有戶口",
-        "ACTIVE_ACCOUNT": "激活帳戶",
+        "ACTIVE_ACCOUNT": "激活賬戶",
         "ACTIVE_ACCOUNT_DESCRIPTION": "激活帳戶提供完整功能。你可以發出與收到Burstcoins。另外，仲可以查餘額與睇翻交易記錄。",
         "ACTIVE_ACCOUNT_INPUT_HINT": "密碼",
         "ACTIVE_ACCOUNT_PIN_INFO": "請設置此應用賬戶六位數PIN。PIN用於批准向外交易。",
         "DONE": "完成",
         "IMPORT": "導入",
-        "INFO": "將通過輸入活動賬戶的密碼完成導入. 否則，將通過輸入脫機賬戶的Burstcoin地址完成導入。",
+        "INFO": "將通過輸入活動賬戶的密碼完成導入. 否則，將通過輸入離線賬戶的Burstcoin地址完成導入。",
         "NEXT": "下一",
         "OFFLINE_ACCOUNT": "離線賬戶",
-        "OFFLINE_ACCOUNT_DESCRIPTION": "離線賬戶和活動賬戶唯一不同的是，它不可以用於發送Burstcoins到別的地址。",
+        "OFFLINE_ACCOUNT_DESCRIPTION": "離線賬戶和激活賬戶唯一不同的是，它不可以用於發送Burstcoins到其他戶口。",
         "OFFLINE_ACCOUNT_INPUT_HINT": "BURST-XXXX-XXXX-XXXX-XXXXX",
         "PIN_INPUT_HINT": "PIN",
         "SHOW" : {
-            "QUESTION": "這你的Burst地址嗎？"
+            "QUESTION": "呢個係你的Burst地址嗎？"
         }
     },
     "TABS": {
@@ -57,7 +57,7 @@
             "TITLE": "餘額"
         },
         "HISTORY": {
-            "TITLE": "歷史",
+            "TITLE": "記錄",
             "DECRYPT": "Decrypt",
             "DECRYPT_IMPOSSIBLE": "Could not be decrypted!",
             "PIN_INPUT_HINT": "Pin"
@@ -65,9 +65,9 @@
         "SETTINGS": {
             "ABOUT": {
                 "ABOUT": "關於我們",
-                "ASSOCIATION": "合夥人",
+                "ASSOCIATION": "團隊",
                 "DEVELOPED": "軟件開發人員",
-                "TWITTER": "為了找到我們項目最新進展，可以在twitter上關注.",
+                "TWITTER": "跟蹤我們項目最新進展，可以在twitter上關注。",
                 "VERSION": "版本"
             },
             "CURRENCY": {
@@ -85,7 +85,7 @@
             },
             "SUPPORT": {
                 "CONTRIBUTION": "我們也為小貢獻感到高興",
-                "DONATE": "享受我們的APP？ 用BURST捐獻支持我們.",
+                "DONATE": "鍾意我哋個APP？ 捐獻BURST支持我們啦。",
                 "SUPPORT": "支持"
             },
             "TITLE": "設置"
@@ -103,17 +103,17 @@
         "FIAT": "Fiat currency to BURST",
         "MESSAGE": "Message",
         "PIN_INPUT_HINT": "Pin",
-        "RECIPIENT": "接受者",
+        "RECIPIENT": "收款人",
         "VERIFY": "驗證"
     },
     "START" : {
-        "CREATE": "創新",
+        "CREATE": "創建",
         "IMPORT": "導入",
-        "INFO": "還沒賬戶. 選擇導入現有賬戶或者新建賬戶."
+        "INFO": "還沒賬戶. 選擇導入現有賬戶或者新建賬戶。"
     },
     "NOTIFICATIONS" : {
         "ADDRESS": "請輸入有效的Burstcoin 地址!",
-        "COPIED": "制了地址 {{value}} 到剪貼板!",
+        "COPIED": "複製地址 {{value}} 到剪貼板!",
         "CONTACT_ADDED": "Contact added successfully!",
         "DECIMAL_AMOUNT": "請輸入小數當作想發出BURST 的金額!",
         "DECIMAL_FEE": "請輸入小數（至少 1）當作交易費!",
