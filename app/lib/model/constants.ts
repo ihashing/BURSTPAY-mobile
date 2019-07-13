@@ -40,7 +40,7 @@ export const constants = {
     database: "loki.db",
     defaultCurrency: "HKD",
     defaultFee: 0.1,
-    defaultLanguage: "zh-hk",
+    defaultLanguage: "en",
     defaultNode: "https://wallet.burstpay.io:8125/burst",
     defaultTheme: "light",
     documentationUrl: "https://github.com/ihashing/BURSTPAY-mobile",
@@ -66,9 +66,9 @@ export const constants = {
         { name: "Srpski", code: "sr-lat" },
         { name: "Svenska", code: "sv" },
         { name: "தமிழ", code: "ta" },
-        { name: "汉语", code: "zh-cn" },
-        { name: "漢語", code: "zh-tw" },
-        { name: "廣東話", code: "zh-hk" }
+        { name: "繁中", code: "zh-tw" },
+        { name: "简中", code: "zh-cn" },
+        { name: "粵語", code: "zh-hk" }
     ],
     marketUrl: "https://api.coinmarketcap.com/v1/ticker/burst",
     minimumFee: 0.00735,
