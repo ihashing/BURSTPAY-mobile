@@ -1,9 +1,9 @@
-<a href='https://play.google.com/store/apps/details?id=org.icewave.burstcoinwallet'><img alt='Get it on Google Play' width="200" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<a href='#'><img alt='Get it on Google Play' width="200" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
-# Burstcoin Mobile Wallet
+# BURSTPAY mobile wallet
 
-This repository holds the source code for the Burstcoin mobile wallet developed by the PoC-Consortium.
-Documentation: [https://poc-consortium.github.io/burstcoin-mobile/](https://poc-consortium.github.io/burstcoin-mobile/)
+This repository holds the source code for the BURSTPAY mobile wallet developed by the iHashing.
+Documentation: [https://ihashing.github.io/BURSTPAY-mobile/](https://ihashing.github.io/BURSTPAY-mobile/)
 
 # Building
 
@@ -24,7 +24,7 @@ Documentation: [https://poc-consortium.github.io/burstcoin-mobile/](https://poc-
 1. Clone this repository
 
     ```
-    git clone git@github.com:poc-consortium/burstcoin-mobile-wallet.git
+    git clone git@github.com:ihashing/BURSTPAY-mobile.git
     ```
 
 2. Install all used npm packages

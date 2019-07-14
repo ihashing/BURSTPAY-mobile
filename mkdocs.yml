@@ -1,12 +1,12 @@
 # Project information
-site_name: Android Burstcoin Wallet
-site_description: Documentation for the Android Burstcoin Wallet
-site_author: cgb
-site_url: https://github.com/poc-consortium/burstcoin-mobile-doc
+site_name: BURSTPAY Mobile Wallet
+site_description: Documentation for the BURSTPAY Mobile Wallet
+site_author: iHashing
+site_url: https://github.com/ihashing/BURSTPAY-mobile
 
 # Repository
-repo_name: burstcoin-mobile-doc
-repo_url: https://github.com/poc-consortium/burstcoin-mobile-doc
+repo_name: BURSTPAY-mobile-doc
+repo_url: https://github.com/ihashing/BURSTPAY-mobile-doc
 
 # Theme
 theme:
@@ -23,9 +23,9 @@ theme:
 extra:
   social:
     - type: github-alt
-      link: https://github.com/poc-consortium
+      link: https://github.com/ihashing
     - type: twitter
-      link: https://twitter.com/PoC_Consortium
+      link: https://twitter.com/BURSTPAY
 
 # Page tree
 pages:
@@ -43,5 +43,5 @@ pages:
 
 # Google Analytics
 google_analytics:
-  - UA-104373595-4
+  - UA-xxxxxxxxx-x
   - auto
