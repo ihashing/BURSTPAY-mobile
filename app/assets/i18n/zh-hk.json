@@ -17,7 +17,7 @@
 	},
 	"IMPORT" : {
 		"ACTION_BAR_TITLE": "導入現有戶口",
-		"ACTIVE_ACCOUNT": "激活賬戶",
+		"ACTIVE_ACCOUNT": "活躍賬戶",
 		"ACTIVE_ACCOUNT_DESCRIPTION": "激活帳戶提供完整功能。你可以發出與收到Burstcoins。另外，仲可以查餘額與睇翻交易記錄。",
 		"ACTIVE_ACCOUNT_INPUT_HINT": "密碼",
 		"ACTIVE_ACCOUNT_PIN_INFO": "請設置此應用賬戶六位數PIN。PIN用於批准向外交易。",
@@ -104,7 +104,7 @@
 		"MESSAGE": "Message",
 		"PIN_INPUT_HINT": "Pin",
 		"RECIPIENT": "收款人",
-		"VERIFY": "驗證"
+		"VERIFY": "驗証"
 	},
 	"START" : {
 		"CREATE": "創建",
