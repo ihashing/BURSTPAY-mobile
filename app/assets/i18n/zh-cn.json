@@ -3,13 +3,13 @@
         "ACTION_BAR_TITLE": "创建新帐户",
         "DONE": "完成",
         "GENERATE_AGAIN": "重新产生",
-        "INFO_SEED": "在此区域点击与滑动.",
-        "INFO_SEED_FINISHED": "收集了种子.",
-        "INFO_STEP_ONE": "首先，造成随机种子，用以产生你的密码.",
-        "INFO_STEP_TWO": "你现在需要顺序记住全部的12密码里的词语.",
-        "INFO_STEP_TWO_ACTION": "写下下列以空格分隔的词语，随后对密码保密.",
-        "INFO_STEP_THREE": "请重新输入你的密码.",
-        "INFO_STEP_THREE_ACTION": "写下单词 #{{value}} 然后选择它.",
+        "INFO_SEED": "在此区域点击与滑动。",
+        "INFO_SEED_FINISHED": "收集了种子。",
+        "INFO_STEP_ONE": "首先，造成随机种子，用以产生你的密码。",
+        "INFO_STEP_TWO": "你现在需要顺序记住全部的12组密码英文单字。",
+        "INFO_STEP_TWO_ACTION": "写下下列以空格分隔的词语，随后对密码保密。",
+        "INFO_STEP_THREE": "请重新输入你的密码。",
+        "INFO_STEP_THREE_ACTION": "写下单词 #{{value}} 然后选择它。",
         "INFO_STEP_FOUR": "请设置此应用账户六位数PIN。PIN用于批准向外交易。",
         "PIN_INPUT_HINT": "PIN",
         "POSSIBILITY_INPUT_HINT": "单词 #{{value}}",
@@ -23,7 +23,7 @@
         "ACTIVE_ACCOUNT_PIN_INFO": "请设置此应用账户六位数PIN。PIN用于批准向外交易。",
         "DONE": "完成",
         "IMPORT": "导入",
-        "INFO": "将通过输入活动账户的密码完成导入. 否则，将通过输入离线账户的Burstcoin地址完成导入.",
+        "INFO": "将通过输入活动账户的密码完成导入。 否则，将通过输入离线账户的Burstcoin地址完成导入。",
         "NEXT": "下一步",
         "OFFLINE_ACCOUNT": "离线账户",
         "OFFLINE_ACCOUNT_DESCRIPTION": "离线账户和活跃帐户唯一不同的是，它不可以用于发送Burstcoins到别的地址。",
@@ -38,8 +38,8 @@
             "ACTIVATE": {
                 "ACTION_BAR_TITLE": "Activate Account",
                 "DONE": "完成",
-                "ENTER_PASSPHRASE": "输入账户的密码在 {{value}} 这儿.",
-                "ENTER_PIN": "设置六位数PIN.",
+                "ENTER_PASSPHRASE": "输入账户的密码在 {{value}} 这儿。",
+                "ENTER_PIN": "设置六位数PIN。",
                 "PASSPHRASE_INPUT_HINT": "密码",
                 "PIN_INPUT_HINT": "Pin",
                 "NEXT": "下一步"
@@ -67,7 +67,7 @@
                 "ABOUT": "关于我们",
                 "ASSOCIATION": "合伙人",
                 "DEVELOPED": "软件开发人员",
-                "TWITTER": "为了找到我们项目最新进展，可以在twitter上关注.",
+                "TWITTER": "为了找到我们项目最新进展，可以在twitter上关注。",
                 "VERSION": "版本"
             },
             "CURRENCY": {
@@ -85,7 +85,7 @@
             },
             "SUPPORT": {
                 "CONTRIBUTION": "我们也为小贡献感到高兴",
-                "DONATE": "享受我们的APP？ 用BURST捐献支持我们.",
+                "DONATE": "享受我们的APP？ 用BURST捐献支持我们。",
                 "SUPPORT": "支持"
             },
             "TITLE": "设置"
@@ -109,7 +109,7 @@
     "START" : {
         "CREATE": "创新",
         "IMPORT": "导入",
-        "INFO": "还没账户. 选择导入现有账户或者新建账户."
+        "INFO": "还没账户。 选择导入现有账户或者新建账户。"
     },
     "NOTIFICATIONS" : {
         "ADDRESS": "请输入有效的Burstcoin 地址!",
