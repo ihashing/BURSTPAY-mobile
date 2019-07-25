@@ -75,6 +75,6 @@ export const constants = {
     supportUrl: "https://github.com/ihashing/BURSTPAY-mobile",
     transactionCount: "15",
     transactionUrl: "https://explorer.burstcoin.network/",
-    twitter: "https://twitter.com/burstpay",
+    twitter: "https://www.facebook.com/BURSTPAY",
     version: "0.2.4"
 }
