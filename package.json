@@ -8,13 +8,16 @@
     "markingMode": "none"
   },
   "nativescript": {
-    "id": "hk.ihashing.burstpaywallet",
+    "id": "io.burstpay.burstpaywallet",
     "tns-android": {
       "version": "4.1.3"
     },
     "tns-ios": {
       "version": "4.1.1"
     }
+  },
+  "nativescript-i18n": {
+    "defaultLang": "zh-hk"
   },
   "scripts": {
     "lint": "tslint \"app/**/*.ts\"",

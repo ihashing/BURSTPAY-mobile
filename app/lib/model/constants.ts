@@ -40,7 +40,7 @@ export const constants = {
     database: "loki.db",
     defaultCurrency: "HKD",
     defaultFee: 0.1,
-    defaultLanguage: "en",
+    defaultLanguage: "zh-hk",
     defaultNode: "https://wallet.burstpay.io:8125/burst",
     defaultTheme: "light",
     documentationUrl: "https://github.com/ihashing/BURSTPAY-mobile",
@@ -76,5 +76,5 @@ export const constants = {
     transactionCount: "15",
     transactionUrl: "https://explorer.burstcoin.network/",
     twitter: "https://www.facebook.com/BURSTPAY",
-    version: "0.2.4"
+    version: "1.0.0"
 }
