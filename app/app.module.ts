@@ -1,5 +1,5 @@
 /*
-* Copyright 2019 iHashing
+* Copyright 2018 PoC-Consortium
 */
 
 import { NgModule, NgModuleFactoryLoader, NO_ERRORS_SCHEMA } from "@angular/core";

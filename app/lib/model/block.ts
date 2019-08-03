@@ -1,5 +1,5 @@
 /*
-* Copyright 2019 iHashing
+* Copyright 2018 PoC-Consortium
 */
 
 import { Transaction } from "./transaction";

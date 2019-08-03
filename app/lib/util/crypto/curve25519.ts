@@ -1,5 +1,5 @@
 /*
-* Copyright 2019 iHashing and authors
+* Copyright 2018 PoC-Consortium and authors
 *
 * Generic 64-bit integer implementation of Curve25519 ECDH
 * Public domain.
