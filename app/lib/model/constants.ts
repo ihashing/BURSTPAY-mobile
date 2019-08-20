@@ -39,7 +39,7 @@ export const constants = {
     ],
     database: "loki.db",
     defaultCurrency: "HKD",
-    defaultFee: 0.1,
+    defaultFee: 0.00735,
     defaultLanguage: "zh-hk",
     defaultNode: "https://wallet.burstpay.io:8125/burst",
     defaultTheme: "light",
@@ -74,7 +74,7 @@ export const constants = {
     minimumFee: 0.00735,
     supportUrl: "https://github.com/ihashing/BURSTPAY-mobile",
     transactionCount: "15",
-    transactionUrl: "https://explorer.burstcoin.network/",
+    transactionUrl: "https://explore.burst.cryptoguru.org/transaction/",
     twitter: "https://www.facebook.com/BURSTPAY",
-    version: "1.0.0"
+    version: "1.0.1"
 }
