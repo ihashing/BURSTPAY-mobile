@@ -5,7 +5,7 @@ src='https://www.pngfind.com/pngs/m/204-2047577_app-store-badge-png-app-store-tr
 # BURSTPAY mobile wallet
 
 This repository holds the source code for the BURSTPAY mobile wallet developed by the iHashing.
-Documentation: [https://ihashing.github.io/BURSTPAY-mobile/](https://ihashing.github.io/BURSTPAY-mobile/)
+Documentation: [https://github.com/ihashing/BURSTPAY-mobile/blob/master/docs/index.md](https://ihashing.github.io/BURSTPAY-mobile/)
 
 # Building
 
