@@ -1,4 +1,6 @@
 <a href='#'><img alt='Get it on Google Play' width="200" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<a href='#'><img alt='Download on APP Store' width="200" 
+src='https://www.pngfind.com/pngs/m/204-2047577_app-store-badge-png-app-store-transparent-png.png'/></a>
 
 # BURSTPAY mobile wallet
 
@@ -56,23 +58,7 @@ Documentation: [https://ihashing.github.io/BURSTPAY-mobile/](https://ihashing.gi
 - Support for over 15 languages
 - Support for over 30 currencies
 
-## Translators :two_hearts:
-
-- bmxakias
-- bold
-- Brabantian
-- fabry1999
-- FLEGI
-- Gadrah
-- HajimeYamanaka
-- Hiro Inu
-- Leass
-- NullNomad
-- Quibus
-- RedFury
-- SolidLiquid
-- umbrellacorp03
-- westhorn
+## Translators : All Burst contributors
 
 ## Bugs and feature requests
 
