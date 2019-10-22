@@ -1,4 +1,4 @@
-# Documentation for the Android Burstcoin Wallet 懶人包
+# Documentation for the BURSTPAY Wallet 懶人包
 
 On these pages you can find the documentation for the BURSTPAY Wallet. If you have bugs or feature requests, please post them on the [github issue page](https://github.com/ihashing/BURSTPAY-mobile/issues). 
 
