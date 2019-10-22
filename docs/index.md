@@ -1,6 +1,8 @@
 # Documentation for the Android Burstcoin Wallet 懶人包
 
-On these pages you can find the documentation for the BURSTPAY Wallet. If you have bugs or feature requests, please post them on the 在這些頁面上，您可以找到iHashing開發的Android Burstcoin錢包文檔。 如果您有錯誤或功能要求  [github issue page](https://github.com/ihashing/BURSTPAY-mobile/issues). 
+On these pages you can find the documentation for the BURSTPAY Wallet. If you have bugs or feature requests, please post them on the [github issue page](https://github.com/ihashing/BURSTPAY-mobile/issues). 
+
+在這些頁面上，您可以找到BURSTPAY錢包文檔。 如果您有錯誤或功能要求請回饋:
 
 ## Controls 功能制
 * Swapping down on the balance, transaction and accounts tab leads to a refresh of the page
