@@ -1,7 +1,7 @@
 <a href='#'><img alt='Get it on Google Play' width="200" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
 <a href='#'><img alt='Download on APP Store' width="200" 
-src='https://icon-library.net/images/apple-store-icon-transparent/apple-store-icon-transparent-0.jpg'/></a>
+src='https://icon-library.net/images/apple-store-icon-transparent/apple-store-icon-transparent-0.jpg'></a>
 
 # BURSTPAY mobile wallet
 
