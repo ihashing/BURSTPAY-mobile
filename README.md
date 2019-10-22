@@ -32,7 +32,7 @@ Documentation: [https://github.com/ihashing/BURSTPAY-mobile/blob/master/docs/ind
 
     ```
     npm install
-    ```s
+    ```
 
 3. Run the application on your virtual device
 
