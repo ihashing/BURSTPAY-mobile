@@ -1,6 +1,7 @@
 # Documentation for the Android Burstcoin Wallet 懶人包
 
-On these pages you can find the documentation for the Android Burstcoin Wallet, developed by the iHashing. If you have bugs or feature requests, please post them on the [github issue page](https://github.com/cgebe/burstcoin-wallet-android/issues).
+On these pages you can find the documentation for the Android Burstcoin Wallet, developed by the iHashing. If you have bugs or feature requests, please post them on the [github issue page](https://github.com/cgebe/burstcoin-wallet-android/issues). 
+
 在這些頁面上，您可以找到iHashing開發的Android Burstcoin錢包文檔。 如果您有錯誤或功能要求，
 
 ## Controls 功能制
