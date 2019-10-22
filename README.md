@@ -1,7 +1,5 @@
-<a href='#'><img alt='Get it on Google Play' width="200" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'></a>
-
-<a href='#'><img alt='Download on APP Store' width="200" 
-src='https://icon-library.net/images/apple-store-icon-transparent/apple-store-icon-transparent-0.jpg'></a>
+<a href='#'><img alt='Get it on Google Play/ App Store' width="200" 
+src='https://cdn.imgbin.com/17/6/16/imgbin-app-store-google-play-apple-apple-cgJDVLrZznjWGv9gUW9ma0ACt.jpg'></a>
 
 # BURSTPAY mobile wallet
 
@@ -34,7 +32,7 @@ Documentation: [https://github.com/ihashing/BURSTPAY-mobile/blob/master/docs/ind
 
     ```
     npm install
-    ```
+    ```s
 
 3. Run the application on your virtual device
 
