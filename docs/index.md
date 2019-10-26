@@ -12,12 +12,12 @@ On these pages you can find the documentation for the BURSTPAY Wallet. If you ha
 * Tap on a transaction to open the Burst explorer showing the details of the transaction
 * Tap on the encrypted text of a transaction to open the decryption dialog
 
-*於餘額頁向下掃，交易和帳戶標籤會刷新頁面
-*長按BURST地址可打開社交共享功能
-*雙擊BURST地址將其複製到剪貼板
-*雙擊發送頁面上的收件人標籤，從剪貼板插入一個Burst地址
-*點擊交易以打開BURST瀏覽器，顯示交易的詳細信息
-*點擊交易的加密文本以打開解密對話框
+*於餘額頁向下掃，交易和帳戶標籤會刷新頁面 
+*長按BURST地址可打開社交共享功能 
+*雙擊BURST地址將其複製到剪貼板 
+*雙擊發送頁面上的收件人標籤，從剪貼板插入一個Burst地址 
+*點擊交易以打開BURST瀏覽器，顯示交易的詳細信息 
+*點擊交易的加密文本以打開解密對話框 
 
 ## Navigation 功能導航
 * Accounts 賬戶
