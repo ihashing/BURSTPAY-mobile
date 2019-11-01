@@ -1,11 +1,11 @@
 # Creation of a new Account 創建一個新帳戶
 
-The BURSTPAY Wallet Application provides a simple way of creating new Burstcoin accounts.
-BURSTPAY錢包應用程序提供了一種創建新Burstcoin帳戶的簡單方法。
+The BURSTPAY Wallet Application provides a simple way of creating new Burst accounts.
+BURSTPAY錢包應用程序提供了一種創建新Burst帳戶的簡單方法。
 
 ## Passphrase 私鑰
 
-In order to create a new Burstcoin account, you need to have a unique and secure passphrase. Your public Burst address and an according private key descend from your passphrase. This way, the passphrase can be used to access your account from any device. Therefore, keep your passphrase always safe and private!
+In order to create a new Burst account, you need to have a unique and secure passphrase. Your public Burst address and an according private key descend from your passphrase. This way, the passphrase can be used to access your account from any device. Therefore, keep your passphrase always safe and private!
 
 為了創建一個新的BURSTPAY帳戶，您需要有一個唯一且安全的私鑰。您的公鑰Burst地址和相應的私鑰均來自您的私鑰。這樣，私鑰可用於從任何設備訪問您的帳戶。因此，請確保您的私鑰始終安全和保密！
 
