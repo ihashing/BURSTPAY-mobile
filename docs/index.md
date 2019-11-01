@@ -6,17 +6,21 @@ On these pages you can find the documentation for the BURSTPAY Wallet. If you ha
 
 ## Controls 功能制
 * Swapping down on the balance, transaction and accounts tab leads to a refresh of the page
-* Long tap on Burst addresses opens the social share functionality
-* Double tap on Burst addresses copies them to the clipboard
-* Double tap on the recipient label on the send page inserts a Burst address from the clipboard
-* Tap on a transaction to open the Burst explorer showing the details of the transaction
-* Tap on the encrypted text of a transaction to open the decryption dialog
-
 *於餘額頁向下掃，交易和帳戶標籤會刷新頁面 
+
+* Long tap on Burst addresses opens the social share functionality
 *長按BURST地址可打開社交共享功能 
+
+* Double tap on Burst addresses copies them to the clipboard
 *雙擊BURST地址將其複製到剪貼板 
+
+* Double tap on the recipient label on the send page inserts a Burst address from the clipboard
 *雙擊發送頁面上的收件人標籤，從剪貼板插入一個Burst地址 
+
+* Tap on a transaction to open the Burst explorer showing the details of the transaction
 *點擊交易以打開BURST瀏覽器，顯示交易的詳細信息 
+
+* Tap on the encrypted text of a transaction to open the decryption dialog
 *點擊交易的加密文本以打開解密對話框 
 
 ## Navigation 功能導航
@@ -27,6 +31,6 @@ On these pages you can find the documentation for the BURSTPAY Wallet. If you ha
     * [Switch 轉換戶口](wallet/switch.md)
     * [Remove 移除戶口](wallet/remove.md)
 * [PIN code 個人識別碼](pin.md)
-* [Send Burstcoins 發送](send.md)
+* [Send Burst 發送](send.md)
 * [Transaction History 交易記錄](transactions.md)
 * [Privacy Policy 私隱政策](privacy_policy.md)
